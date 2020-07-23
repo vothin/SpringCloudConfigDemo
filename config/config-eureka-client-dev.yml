@@ -3,3 +3,5 @@ data:
   user:
     username: eureka-client-user
     password: 123456
+    
+foo: foo version 21
